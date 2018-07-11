@@ -1,6 +1,6 @@
-Hello JNI
+HelloCalcJNI
 =========
-Hello JNI is an Android sample that uses JNI to call C code from a Android Java Activity.
+HelloCalcJNI is an Android sample that uses JNI to call C code from a Android Java Activity.
 
 This sample uses the new [Android Studio CMake plugin](http://tools.android.com/tech-docs/external-c-builds) with C++ support.
 For how to use Android Studio, refer to [Hello-CMake codelab](https://codelabs.developers.google.com/codelabs/android-studio-cmake/index.html)
@@ -18,10 +18,6 @@ Getting Started
   - Click *Download* or *Select NDK location*.
 1. Click *Tools/Android/Sync Project with Gradle Files*.
 1. Click *Run/Run 'app'*.
-
-Screenshots
------------
-![screenshot](screenshot.png)
 
 Support
 -------
@@ -45,7 +41,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
